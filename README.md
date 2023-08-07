@@ -1,8 +1,2 @@
 # hello world!
-#C
-#include<stdio.h>      
-int main()              
-{                     
-    printf("Hello world!");   
-    return 0;        
-}    
+git学习
